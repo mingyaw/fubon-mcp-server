@@ -116,6 +116,7 @@ MIT License
 ## 作者
 
 Hans Li
+https://medium.com/@mingyawli
 
 ## 更新日誌
 
