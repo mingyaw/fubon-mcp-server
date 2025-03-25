@@ -1,6 +1,6 @@
 # Fubon MCP Server
 
-富邦證券市場資料 MCP (Model Communication Protocol) 伺服器，用於獲取台股歷史 K 線數據。
+富邦證券市場資料 MCP (Model Communication Protocol) 伺服器，用於獲取台股歷史數據。
 
 ## 功能特點
 
